@@ -6,7 +6,7 @@ title: "Compositional Modeling of Nonlinear Dynamical Systems with ODE-based Ran
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Mauricio A {\'A}lvarez
+- Mauricio A Alvarez
 
 # Author notes (optional)
 # author_notes:
