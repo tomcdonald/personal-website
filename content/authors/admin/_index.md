@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Thomas McDonald
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,22 +18,21 @@ bio: I am a PhD student at The University of Sheffield currently working on phys
 
 # Interests to show in About widget
 interests:
-- Physics-informed machine learning
-- Probabilistic deep learning
-- Gaussian processes
+- Physics-informed probabilistic machine learning
+- Deep Gaussian processes
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Computer Science
     institution: The University of Sheffield
-    year: 2020 - Present
+    year: 2024
   - course: MSc in Data Analytics
     institution: The University of Sheffield
-    year: 2019 - 2020
+    year: 2020
   - course: BSc (Hons) in Physics
     institution: The University of Sheffield
-    year: 2015 - 2018
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a PhD student in the Machine Learning Group at The University of Sheffield, working on probabilistic deep learning under the supervision of Dr Mauricio Álvarez. My current research interests include deep Gaussian processes and their applications, and the application of physical concepts to probabilistic machine learning. Previously, I completed my masters and undergraduate degrees in the Computer Science and Physics departments at Sheffield respectively, and have also worked as an analyst in the energy sector.
+I am currently a PhD student in the Machine Learning Group at The University of Sheffield, working on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. Previously, I completed my masters and undergraduate degrees in the Computer Science and Physics departments at Sheffield respectively, and have also worked as an analyst in the energy sector.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+% {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
