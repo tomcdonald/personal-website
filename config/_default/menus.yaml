@@ -10,11 +10,11 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Talks
     url: '#talks'
+    weight: 30
+  - name: Experience
+    url: '#experience'
     weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
