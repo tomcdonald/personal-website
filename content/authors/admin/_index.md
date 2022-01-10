@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:tmmcdonald1@sheffield.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tomcd_
@@ -71,4 +71,4 @@ highlight_name: true
 
 I am currently a PhD student in the Machine Learning Group at The University of Sheffield, working on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. Previously, I completed my masters and undergraduate degrees in the Computer Science and Physics departments at Sheffield respectively, and have also worked as an analyst in the energy sector.
 
-% {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
