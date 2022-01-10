@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Graduate Teaching Assistant (GTA)
+    company: The University of Sheffield
+    company_url: 'https://www.sheffield.ac.uk/'
+    company_logo: uos_logo
+    location: Sheffield, UK
+    date_start: '2020-10-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+         * I have worked as a GTA on a number of different courses within the Faculty of Engineering, and currently
+          assist with postgraduate-level courses focused on machine learning, handling data at scale using Spark and
+          High Performance Computing infrastructure.
         
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Pricing Analyst
+    company: ENGIE Power Ltd.
+    company_url: 'https://www.engie.co.uk/'
+    company_logo: engie_logo
+    location: Leeds, UK
+    date_start: '2018-10-01'
+    date_end: '2019-08-01'
+    description: |2-
+        * My role involved employing statistical modelling to forecast national non-commodity cost components and
+          mitigate the level of risk involved in signing energy supply contracts.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        * Implemented seasonal ARIMA forecasting models in Python, with the models routinely returning <1%
+          error on predictions made three months ahead of time.
+        
+        * Improved functionality of the VBA gas and electricity price matrices.
 
 design:
   columns: '2'
