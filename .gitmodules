@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/tomcdonald/tomcdonald.github.io.git
+	branch = main
