@@ -10,11 +10,11 @@ role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Sheffield
-  url: https://https://www.sheffield.ac.uk/
+- name: The University of Manchester
+  url: https://www.manchester.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at The University of Sheffield currently working on physics-informed probabilistic deep learning.
+bio: I am a PhD student at The University of Manchester, currently working on physics-informed probabilistic deep learning.
 
 # Interests to show in About widget
 interests:
@@ -25,7 +25,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: The University of Sheffield
+    institution: The University of Manchester
     year: 2024
   - course: MSc in Data Analytics
     institution: The University of Sheffield
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tmmcdonald1@sheffield.ac.uk
+  link: mailto:thomas.mcdonald-2@postgrad.manchester.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tomcd_
@@ -69,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a PhD student in the Machine Learning Group at The University of Sheffield, working on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. Previously, I obtained my masters and undergraduate degrees in the Computer Science and Physics departments at Sheffield respectively, and have also worked as an analyst in the energy sector.
+I am currently a PhD student in the Machine Learning Group at The University of Manchester, working on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. Previously, I obtained my masters and undergraduate degrees in the Computer Science and Physics departments respectively at The University of Sheffield, and I have also worked as an analyst in the energy sector.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/thomas_mcdonald_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
