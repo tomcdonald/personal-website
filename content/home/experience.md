@@ -28,7 +28,7 @@ experience:
     company_logo: uos_logo
     location: Sheffield, UK
     date_start: '2020-10-01'
-    date_end: ''
+    date_end: '2022-02-01'
     description: |2-
          * I have worked as a GTA on a number of different courses within the Faculty of Engineering, and currently
           assist with postgraduate-level courses focused on machine learning, handling data at scale using Spark and
