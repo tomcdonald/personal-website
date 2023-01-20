@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.spotify.com/'
     company_logo: spotify_logo
     location: London, UK
-    date_start: '2020-06-13'
+    date_start: '2022-06-13'
     date_end: '2022-09-09'
     description: |2-
          * I spent the summer working within Tech Research at Spotify on a machine learning-based research project which is currently in submission at a conference venue.
