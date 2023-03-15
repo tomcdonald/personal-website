@@ -23,7 +23,6 @@ removePathAccents: true
 module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-      #disable: true
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
 
 ############################
@@ -44,8 +43,8 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [] #[HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [] #[HTML, RSS]
+  home: [HTML, RSS, JSON, WebAppManifest]
+  section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
   quality: 75
