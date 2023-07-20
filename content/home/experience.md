@@ -30,7 +30,7 @@ experience:
     date_start: '2022-06-13'
     date_end: '2022-09-09'
     description: |2-
-         * I spent the summer working within Tech Research at Spotify on a machine learning-based research project which is currently in submission at a conference venue.
+         * I spent the summer working within Tech Research at Spotify on a project which leveraged Bayesian filtering and Thompson sampling to provide podcast recommendations which drive long-term user engagement. This work was presented at KDD 2023.
 
   - title: Graduate Teaching Assistant (GTA)
     company: The University of Sheffield

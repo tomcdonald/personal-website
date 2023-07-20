@@ -18,8 +18,9 @@ bio: I am a PhD student at The University of Manchester, currently working on ph
 
 # Interests to show in About widget
 interests:
-- Physics-informed probabilistic machine learning
-- Deep Gaussian processes
+- Gaussian processes
+- Bayesian deep learning
+- Physics-informed ML
 
 # Education to show in About widget
 education:
