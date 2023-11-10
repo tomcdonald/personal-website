@@ -7,7 +7,7 @@ title: "Impatient Bandits: Optimizing Recommendations for the Long-Term Without 
 authors:
 - admin
 - Lucas Maystre
-- Mounia Lamas
+- Mounia Lalmas
 - Daniel Russo
 - Kamil Ciosek
 
