@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thomas M. McDonald
+title: Thomas Baldwin-McDonald
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,5 +71,7 @@ highlight_name: true
 ---
 
 I am currently a PhD student in the Machine Learning Group at The University of Manchester, working on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. Previously, I obtained my masters and undergraduate degrees in the Computer Science and Physics departments respectively at The University of Sheffield, and I have also worked as an analyst in the energy sector and as a summer research intern at Spotify.
+
+*Previously known as Thomas M. McDonald.*
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/thomas_mcdonald_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
