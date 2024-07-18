@@ -6,18 +6,20 @@ title: Thomas M. McDonald
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Senior Machine Learning Technologist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The University of Manchester
-  url: https://www.manchester.ac.uk
+- name: Ofcom
+  url: https://www.ofcom.org.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student at The University of Manchester, currently working on physics-informed probabilistic deep learning.
+bio: I am a Senior Machine Learning Technologist at Ofcom, working in the Online Safety Group on research relating to recommender systems and responsible AI.
 
 # Interests to show in About widget
 interests:
+- Recommender systems
+- Responsible AI
 - Gaussian processes
 - Bayesian deep learning
 - Physics-informed ML
@@ -40,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:thomas.mcdonald-2@postgrad.manchester.ac.uk
+# - icon: envelope
+#  icon_pack: fas
+#  link: mailto:thomas.mcdonald-2@postgrad.manchester.ac.uk
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/tomcd_
@@ -70,6 +72,8 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a PhD student in the Machine Learning Group at The University of Manchester, working on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. Previously, I obtained my masters and undergraduate degrees in the Computer Science and Physics departments respectively at The University of Sheffield, and I have also worked as an analyst in the energy sector and as a summer research intern at Spotify.
+I am currently a Senior Machine Learning Technologist at Ofcom, working within the Online Safety Group on research relating to recommender systems, and more broadly, responsible AI. I obtained my PhD from The University of Manchester in 2024, where I worked within the Centre for AI Fundamentals on physics-informed probabilistic deep learning under the supervision of Dr Mauricio Álvarez. During my PhD, in 2022, I worked as a research intern at Spotify on bandit algorithms for podcast recommendation. Prior to my PhD and MSc, I also have experience working as an analyst in the energy sector.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/thomas_mcdonald_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+*Previously known as Thomas M. McDonald.*
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/thomas_baldwin_mcdonald_cv.pdf" "newtab" >}}CV{{< /staticref >}}.

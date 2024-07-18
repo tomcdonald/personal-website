@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Machine Learning Technologist
+    company: Ofcom
+    company_url: 'https://www.ofcom.org.uk'
+    company_logo: ofcom_logo
+    location: Manchester, UK
+    date_start: '2024-02-05'
+    date_end: ''
+    description: |2-
+         * Currently, I am a senior researcher in the AI team, within the Online Safety Group at Ofcom. My work currently focuses on topics relating to recommender systems and more broadly, responsible AI.
+
   - title: Research Scientist Intern
     company: Spotify
     company_url: 'https://www.spotify.com/'
